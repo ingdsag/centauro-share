@@ -8,5 +8,3 @@ The plugin shows you a basic functionality on how to create a database properly 
 Also, in the WordPress's backend you will be able to view how to setup features and store them in the WordPress Database properly.
 
 This plugin is intended as a demonstration to users wanting create a simple plugin from scratch using simple functionality.
-
-d
