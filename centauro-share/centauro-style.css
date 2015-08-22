@@ -1,0 +1,67 @@
+.centauro-share-bar
+{
+    position: fixed;
+    z-index: 40;
+    top:40px;
+}
+.centauro-share-bar.right
+{
+    right:0;
+}
+#temp-message
+{
+    padding: 10px;
+    background-color: #73dd53;
+    color: #FFF;
+}
+#temp-message.warning
+{
+    padding: 10px;
+    background-color: #dd534a !important;
+    color: #FFF;
+}
+.centauro-share-facebook
+{
+    background: url("icons.png");
+    width: 32px;
+    height: 32px;
+    background-position: 0 0;
+    
+}
+.centauro-share-twitter
+{
+    background: url("icons.png");
+    width: 32px;
+    height: 32px;
+    background-position: 0 -32px;
+}
+.centauro-share-google
+{
+    background: url("icons.png");
+    width: 32px;
+    height: 32px;
+    background-position: 0 -64px;
+}
+.centauro-share-email
+{
+    background: url("icons.png");
+    width: 32px;
+    height: 32px;
+    background-position: 0 -96px;
+}
+.centauro-share-sms
+{
+    background: url("icons.png");
+    width: 32px;
+    height: 32px;
+    background-position: 0 -128px;
+}
+.left-admin
+{
+    float:left;
+    width: 49%;
+}
+.admin-width
+{
+    width: 70%;
+}
