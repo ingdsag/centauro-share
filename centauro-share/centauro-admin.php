@@ -1,4 +1,4 @@
-<?php
+<?phps
 	if (isset($_REQUEST['action']) && $_REQUEST['action']=="guardar_compartir")
 	{
 		update_option( 'fb-share', 'off');
