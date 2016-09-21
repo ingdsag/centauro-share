@@ -3,7 +3,7 @@
 	 * Libreria de Integracion CentauroSMS
 	 * API para Integracion de Envios de SMS a cualquier Aplicacion Web
 	 *
-	 * @autor Hernan Crespo
+	 * @autor Hernan Crespos
 	 *
 	 */
 	class CentauroSMS {
